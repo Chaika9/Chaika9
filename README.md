@@ -4,8 +4,11 @@
 <img align="right" width="400" src="./images/profile.jpg" />
 
 <h2> # About me </h2>
+
 Hi, I'm Chaika9. I'm a student at Epitech who is interested in programming and game development.
 I like to touch a little bit of everything for discover new things and learn new skills, like AI Machine Learning, OS Development, etc...
+
+Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a developer.
 
 <h2> # Current skills </h2>
 
@@ -20,19 +23,26 @@ I like to touch a little bit of everything for discover new things and learn new
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
 
-- <h4> Software & Libraries </h4>
+- <h4> Softwares & Libraries </h4>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
 
 <div align="right">
-<a href="https://www.pixiv.net/en/users/17747627">Image by べにじか（紅鹿）</a>
+    <a href="https://www.pixiv.net/en/users/17747627">Image by べにじか（紅鹿）</a>
 </div>
 
 - <h4> Designing tools </h4>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 
 <h2> # Projects </h2>
-- Onigami Project (Temporary name)
+
+- [Paladium](https://paladium-pvp.fr/)
+- [Modded](https://modded.fr/)
+- Paladium Bedrock
 
 </div>
+
+-----
+
+<img src="https://count.getloli.com/get/@Chaika9?theme=moebooru" alt="Followers" />

@@ -27,6 +27,10 @@ Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a devel
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+    <img src="https://img.shields.io/badge/RabbitMQ-EE4C2C?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
+
+    - <h5> Database </h5>
+        <img src="https://img.shields.io/badge/MongoDB-00000?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 
 <div align="right">
     <a href="https://www.pixiv.net/en/users/17747627">Image by べにじか（紅鹿）</a>

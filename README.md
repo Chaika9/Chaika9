@@ -22,6 +22,7 @@ Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a devel
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 
 - <h4> Softwares & Libraries </h4>
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
@@ -31,6 +32,9 @@ Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a devel
 
     - <h5> Database </h5>
         <img src="https://img.shields.io/badge/MongoDB-00000?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+        <img src="https://img.shields.io/badge/GraphQL-0088FF?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
 
 <div align="right">
     <a href="https://www.pixiv.net/en/users/17747627">Image by べにじか（紅鹿）</a>
@@ -49,4 +53,3 @@ Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a devel
 
 -----
 
-<img src="https://count.getloli.com/get/@Chaika9?theme=moebooru" alt="Followers" />

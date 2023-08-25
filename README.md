@@ -35,6 +35,7 @@ Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a devel
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
         <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
         <img src="https://img.shields.io/badge/GraphQL-0088FF?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+        <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
 
 <div align="right">
     <a href="https://www.pixiv.net/en/users/17747627">Image by べにじか（紅鹿）</a>
@@ -53,3 +54,4 @@ Currently, I'm working for [Paladium](https://paladium-pvp.fr/) Games as a devel
 
 -----
 
+<img src="https://count.getloli.com/get/@Chaika9?theme=moebooru" alt="Followers" />
